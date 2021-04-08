@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264803176536",
+    "project_id": "loginsample-7a258",
+    "storage_bucket": "loginsample-7a258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264803176536:android:538026dfaf8da6c9a7ba2d",
+        "android_client_info": {
+          "package_name": "com.example.fresh_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264803176536-pa8j1o49g5kp56sd8vefbji0d5qshdiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALe8qFJuqgCn4WHPg-yEYb-fW2WYqM1vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264803176536-pa8j1o49g5kp56sd8vefbji0d5qshdiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
