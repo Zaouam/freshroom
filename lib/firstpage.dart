@@ -66,7 +66,7 @@ class _Skiper extends State<Skiper> {
                           "Contrary to popular belief, Lorem \nIpsum is not simply. It has roots in a \npiece of classical",
                           style: TextStyle(
                             fontSize: 10,
-                            color: Colors.grey,
+                            color: Colors.red,
                           ),
                         ),
                       )
